@@ -1,6 +1,8 @@
 A website that hosts several interactive puzzle games - uses PHP complete with profile creation and database support.
 Cannot run in current state as database requires university password, but the code is quite intuitive to read.
 
+index.php is the main controller. View and model code is stored in respective folders.
+
 
 Architected so that it uses:
 
