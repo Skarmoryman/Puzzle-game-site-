@@ -1,0 +1,53 @@
+Features: For each feature you implement, move to the Implemented section and
+explain who did it (utorid) and how you did it. You can consider these as 
+almost user stories, if you just add a bit to them. Add more features/user stories at the bottom.
+Move them up when completed.
+
+------------------------------------------------------------------------------------
+Implemented: 
+------------------------------------------------------------------------------------
+0) Login
+   Done by: arnold
+   Explanation: created schema, including appuser table, populated with 
+   default user. Also created handler for login state as well as login page.
+
+1) GuessGame
+   Done by: DanialShaikh
+   Explanation: updated model, created view, added support in index
+
+2) 15Puzzle
+   Done by:Wenxiu Liu 
+   Explanation: created model, created view, added support in index
+
+3) PegSolitaire
+   Done by: DanialShaikh
+   Explanation: creatd model, created view, added support in index
+
+4) Mastermind
+   Done by: Wenxiu Liu
+   Explanation: created model, created view, added support in index
+
+5) Regitser
+   Done by: Wenxiu Liu
+   Explanation: Created register view, added support in index, add query functionality
+
+6) User Profile
+   Done by: Wenxiu Liu
+   Explanation: Created userprofile view, added support in index
+
+7) Navigation
+   Done by: DanialShaikh
+   Explanation: Added functional navigation to all logged in views
+
+8) Game Stats
+   Done by: DanialShaikh
+   Explanation: Created schema to support game stats. Added quering in all game models to update
+	user stats.
+
+9) Password Hashing
+   Done by: DanialShaikh
+   Explanation: Added Password hashing/salting to both register and userprofile
+
+------------------------------------------------------------------------------------
+Unimplemented:
+------------------------------------------------------------------------------------
